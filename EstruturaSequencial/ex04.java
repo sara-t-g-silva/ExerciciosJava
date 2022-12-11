@@ -3,7 +3,7 @@ package EstruturaSequencial;
 import java.util.Scanner;
 
 /* Faça um Programa que converta metros para centímetros. */
-public class ex4 {
+public class ex04 {
 
     public static void main(String[] args) {
         
