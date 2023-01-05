@@ -15,7 +15,7 @@ public class ex01 {
         System.out.println("Digite um número: ");
         numero = scan.nextInt();
 
-        System.out.println("o número informado foi: [" + numero+"].");
+        System.out.println("o número informado foi: [" + numero+"]  .");
         
         
     }
